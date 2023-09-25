@@ -1,5 +1,5 @@
-
-const APIkey = 'a1f3dcf1f4b106a05739365ac2f33777';
+// register on the https://openweathermap.org/ website and put your API key in the APIkey variable 
+const APIkey = '';
 
 
 function set_infos(city){
