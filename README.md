@@ -4,4 +4,5 @@
   First, register on the OpenWeatherMap website and put your API key in the APIkey variable in the scripts.js file. That's it.
   
 </h3>
-<img src="https://github.com/mahdi-GKH/weather_app-API/assets/94890007/5ad2e771-2e83-4af8-99c6-d40f5eb82912">
+<img src="https://github.com/mahdi-GKH/weatherApp-API/assets/94890007/97b5d1ce-6363-445b-b8bc-8c3f35f71ce9">
+
